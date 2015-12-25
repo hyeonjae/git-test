@@ -1,5 +1,9 @@
 #include <stdio.h>
 
-int main() {
+void say_hello() {
   printf("hello world\n");
+}
+
+int main() {
+  say_hello();
 }
