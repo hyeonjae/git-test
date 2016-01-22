@@ -1,7 +1,7 @@
 #include <stdio.h>
 //aa  conflict
-//////
-//a
+// aa
+////// 
 //a
 //a
 int main(int argc, char *argv[]) {
