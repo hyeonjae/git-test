@@ -1,19 +1,6 @@
 #include <stdio.h>
-//aa  conflict
-// aa
-////// 
-//a
-//aaa
-int main(int argc, char *argv[]) {
-  printf("hello world\n");
-  return 0;
-}aaabbb
-////    //////
-// end line //
-//  xxxx    //
-//          //
-////    //////
-hihi
-hoho
 
-hello
+int main() {
+  int a;
+  return 0;
+}
