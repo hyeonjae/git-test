@@ -2,6 +2,8 @@
 
 int main () {
   int a = 5;
-  printf("%d!!\n", a);
+  for (int i=0; i<5; i++) {
+    printf("%d!!\n", a);
+  }
   return 0;
 }
